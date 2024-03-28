@@ -61,6 +61,7 @@
   }
   .inputGroup {
     flex-direction: column;
+    min-width: 80%;
   }
   .main {
     padding: 2rem;
